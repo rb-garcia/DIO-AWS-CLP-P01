@@ -22,13 +22,13 @@ Etapa 2:
 
 Etapa 3: 
 - AWS Trusted Advisor
-- Essa ferramenta fornece identificação em tempo real de áreas potenciais para otimização. Ela pode ajudar as empresas a identificar oportunidades de redução de custos em áreas como otimização de custos, desempenho, segurança e tolerância a falhas.
-- Um caso de uso para essa ferramenta seria uma empresa que deseja otimizar sua infraestrutura da AWS para reduzir custos e melhorar seu desempenho e segurança gerais.
+- Essa ferramenta fornece identificação em tempo real de áreas potenciais para otimização. Ela pode ajudar as empresas a identificar oportunidades de redução de custos dentro dos seguintes pilares: otimização, desempenho, desempenho, segurança, tolerância a falhas e limites de serviços. Essa ferramenta possui várias funcionalidades, como: faz recomendações com base em boas práticas, inspeciona o ambiente AWS tempo real funcionando como um consultor automatizado. 
+- Um caso de uso para essa ferramenta seria uma empresa que deseja otimizar sua infraestrutura da AWS para reduzir custos, melhorar seu desempenho e segurança geral.
 
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado a otimização de custos com a infraestrutura AWS, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
