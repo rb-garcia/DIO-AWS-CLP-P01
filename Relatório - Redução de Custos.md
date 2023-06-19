@@ -32,7 +32,14 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+AWS Budgets
+https://aws.amazon.com/pt/aws-cost-management/aws-budgets/
+
+AWS Cost Explorer
+https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/
+
+AWS Trusted Advisor
+https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/
 
 Assinatura do Responsável pelo Projeto:
 
