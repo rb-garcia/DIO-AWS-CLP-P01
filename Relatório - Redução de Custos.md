@@ -21,9 +21,9 @@ Etapa 2:
 - Como caso de uso, essa ferramenta pode ser utilizada por qualquer empresa que deseja analisar seus gastos com a AWS ao longo do tempo e identificar áreas onde se pode otimizar custos.
 
 Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- AWS Trusted Advisor
+- Essa ferramenta fornece identificação em tempo real de áreas potenciais para otimização. Ela pode ajudar as empresas a identificar oportunidades de redução de custos em áreas como otimização de custos, desempenho, segurança e tolerância a falhas.
+- Um caso de uso para essa ferramenta seria uma empresa que deseja otimizar sua infraestrutura da AWS para reduzir custos e melhorar seu desempenho e segurança gerais.
 
 
 
