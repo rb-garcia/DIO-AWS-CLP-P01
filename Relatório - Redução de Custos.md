@@ -36,4 +36,4 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+Ricardo Barrionuevo Garcia
